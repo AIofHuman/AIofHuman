@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AIofHuman and real world my name is Boris.
+- 👋 Hi, I’m @AIofHuman and in the real world my name is Boris.
 - 👀 I’m interested in Data Science and astronomy
 - 🌱 I’m currently learning openvc and pytorch
 - 💞️ I’m looking to collaborate on research tasks 
