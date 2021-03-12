@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AIofHuman and in the real world my name is Boris.
-- 👀 I’m interested in Data Science and astronomy
-- 🌱 I’m currently learning openvc and pytorch
+- 👀 I’m interested in Data Science and Astronomy
+- 🌱 I’m currently learning opencv and pytorch
 - 💞️ I’m looking to collaborate on research tasks 
 - 📫 How to reach me demkov.boris@gmail.com
 
