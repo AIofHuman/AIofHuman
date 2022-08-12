@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science and Astronomy
 - 🌱 I’m currently learning opencv and pytorch
 - 💞️ I’m looking to collaborate on research tasks 
+- My Linkedin's page www.linkedin.com/in/borisdemkov
 - 📫 How to reach me demkov.boris@gmail.com
 
 <!---
